@@ -120,7 +120,7 @@ params:
     #intro: "Hi, my name is"
     title: "Sai Sree Tarun Kurakula"
     subtitle: "Data Scientist/ Analyst"
-    content: " I'm a passionate 4th-year student pursuing a dual focus in Data Science and Cybersecurity. My journey in the world of technology has been driven by an unwavering curiosity and an insatiable thirst for knowledge. With a profound interest in AI and Machine Learning, I've embarked on a quest to unravel the limitless possibilities these fields offer. This portfolio showcases my work, projects, and endeavors in the exciting realms of data, cybersecurity, and the boundless potential of artificial intelligence."
+    content: " I'm a passionate 4th-year student pursuing a dual focus in Data Science and Cybersecurity at Mercyhurst University. My journey in the world of technology has been driven by an unwavering curiosity and an insatiable thirst for knowledge. With a profound interest in AI and Machine Learning, I've embarked on a quest to unravel the limitless possibilities these fields offer. This portfolio showcases my work, projects, and endeavors in the exciting realms of data, cybersecurity, and the boundless potential of artificial intelligence."
     image: /images/hero.svg
     bottomImage:
       enable: true
