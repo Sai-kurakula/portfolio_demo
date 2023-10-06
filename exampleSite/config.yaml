@@ -117,7 +117,7 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
+    #intro: "Hi, my name is"
     title: "Sai Sree Tarun Kurakula"
     subtitle: "Data Scientist/ Analyst"
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
